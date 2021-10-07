@@ -9,7 +9,7 @@ the Java programming language.
 If interested in my comments and approach I invite you to
 read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/10/07/merge-sort-revisited/
 
 Keep in mind that on eof the best ways to lear and refresh
 concepts is to read and experiment.
